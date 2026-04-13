@@ -2,6 +2,12 @@
 
 A pharmacy license verification system that imports search results from state boards, automatically scores address matches, and provides a web interface for manual review and validation.
 
+## 2025 Internship Project
+
+Built during a 2025 internship, this project is a full-stack pharmacy license verification system designed to aggregate, score, and validate data from multiple U.S. state boards.
+
+The original repository was transferred at the end of the internship, so I no longer have access to the codebase. This README is preserved to document the system’s architecture, features, and design decisions.
+
 ## Overview
 
 PharmChecker streamlines pharmacy license verification across multiple U.S. states by:
